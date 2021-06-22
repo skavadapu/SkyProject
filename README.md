@@ -34,4 +34,4 @@ This repo meant for automating the Sky website functions.
 **Run Tests:**
 1) Split the terminal1, run firefox executable file using command: ./geckodriver.exe --binary [C:/Program Files/Mozilla Firefox/firefox.exe]  
 2) In terminal 2 run - npx wdio wdio.conf.js  (Which runs all 2 specs, 4 tests, 1 spec on each Chrome and Firefox browsers)
-3) For viewing the Allure html reports, run allure generate && allure open
+3) For viewing the Allure html reports, run: 	allure generate allure-results --clean && allure open
