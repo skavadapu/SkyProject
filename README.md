@@ -5,6 +5,7 @@ This repo meant for automating the Sky website functions.
 
 **Project tech stack**
   -- WebdriverIO
+  -- JavaScript
   -- Mocha framework
   -- Chai
   -- Allure reports
